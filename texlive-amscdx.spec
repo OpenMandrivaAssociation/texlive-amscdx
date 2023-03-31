@@ -1,6 +1,6 @@
 Name:		texlive-amscdx
 Version:	51532
-Release:	1
+Release:	2
 Summary:	Enhanced commutative diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/amscdx
